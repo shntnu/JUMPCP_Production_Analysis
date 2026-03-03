@@ -1,9 +1,9 @@
 # JUMPCP_Production_Analysis — Archive Summary
 
-Repo: https://github.com/srijitseal/JUMPCP_Production_Analysis
-Author: Srijit Seal
-Period: Dec 2025 – Jan 2026
-Status: Superseded by jump_production
+- Repo: https://github.com/srijitseal/JUMPCP_Production_Analysis
+- Author: Srijit Seal
+- Period: Dec 2025 – Jan 2026
+- Status: Superseded by jump_production
 
 ## Contents
 
